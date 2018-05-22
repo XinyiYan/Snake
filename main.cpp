@@ -8,6 +8,7 @@
 #include <utility>
 #include <vector>
 #include <string>
+#include <cstring>
 #include "common.h"
 #include "displayable.h"
 #include "displayable/snake3.h"
